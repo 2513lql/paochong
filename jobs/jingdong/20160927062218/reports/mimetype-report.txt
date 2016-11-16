@@ -1,0 +1,17 @@
+[#urls] [#bytes] [mime-types]
+169 2218367 text/html
+93 8540 text/dns
+86 751065 image/jpeg
+70 2062984 application/x-javascript
+29 472698 image/png
+22 11630 text/plain
+20 5519565 image/gif
+20 83346 image/x-icon
+15 998418 text/css
+13 4679388 unknown
+7 309688 application/javascript
+3 993 application/json
+2 12047 application/x-shockwave-flash
+2 1168 application/xml
+2 5245 text/javascript
+1 46267 image/

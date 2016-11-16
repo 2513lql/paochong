@@ -1,0 +1,15 @@
+2016-10-13T01:54:41.243Z   200        160 http://www.datatang.com/robots.txt P http://www.datatang.com/data/list/r020-p2 text/plain #003 20161013015441010+221 sha1:EPVTLC73ELWTCXUW7QKLGOKLV5EQSM2N - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\www.datatang.com\robots.txtN to F:\myproject\hetrixtest2\.\mirror\www.datatang.com\robots.txt
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\www.datatang.com\robots.txtN to F:\myproject\hetrixtest2\.\mirror\www.datatang.com\robots.txt
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)

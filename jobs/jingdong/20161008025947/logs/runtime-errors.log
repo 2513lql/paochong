@@ -1,0 +1,9 @@
+2016-10-08T10:57:24.367Z    -5      15390 http://www40.statcan.ca/robots.txt XLLXEP http://www40.statcan.ca/l01/cst01/trad42a-eng.htm unknown #009 - - - err=java.lang.InterruptedException,9t
+ java.lang.InterruptedException: interrupt detected
+	at org.archive.util.ArchiveUtils.continueCheck(ArchiveUtils.java:922)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:130)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:147)
+ java.lang.InterruptedException: interrupt detected
+	at org.archive.util.ArchiveUtils.continueCheck(ArchiveUtils.java:922)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:130)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:147)

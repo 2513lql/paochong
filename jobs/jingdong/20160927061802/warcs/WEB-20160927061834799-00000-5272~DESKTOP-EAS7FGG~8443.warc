@@ -1,0 +1,228 @@
+WARC/1.0
+WARC-Type: warcinfo
+WARC-Date: 2016-09-27T06:18:34Z
+WARC-Filename: WEB-20160927061834799-00000-5272~DESKTOP-EAS7FGG~8443.warc.gz
+WARC-Record-ID: <urn:uuid:34a7e487-02e3-4fe6-ad62-99355b4d7c50>
+Content-Type: application/warc-fields
+Content-Length: 382
+
+software: Heritrix/3.1.0 http://crawler.archive.org
+ip: 10.103.246.124
+hostname: DESKTOP-EAS7FGG
+format: WARC File Format 1.0
+conformsTo: http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+isPartOf: basic
+description: Basic crawl starting with useful defaults
+robots: obey
+http-header-user-agent: Mozilla/5.0 (compatible; heritrix/3.1.0 +http://localhost)
+
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: dns:www.baidu.com
+WARC-Date: 2016-09-27T06:18:34Z
+WARC-IP-Address: 10.3.9.4
+WARC-Record-ID: <urn:uuid:c569131c-6997-439f-adcf-580242c03ca7>
+Content-Type: text/dns
+Content-Length: 101
+
+20160927061834
+www.a.shifen.com.	112	IN	A	220.181.111.188
+www.a.shifen.com.	112	IN	A	220.181.112.244
+
+
+WARC/1.0
+WARC-Type: response
+WARC-Target-URI: http://www.baidu.com/robots.txt
+WARC-Date: 2016-09-27T06:18:37Z
+WARC-Payload-Digest: sha1:JULQ4K6IENZINRY3PUKX64UIHQAMO7HI
+WARC-IP-Address: 220.181.111.188
+WARC-Record-ID: <urn:uuid:72e2a929-94a6-4b17-86a2-1359e829d962>
+Content-Type: application/http; msgtype=response
+Content-Length: 2795
+
+HTTP/1.1 200 OK
+Date: Tue, 27 Sep 2016 06:18:33 GMT
+Server: Apache
+P3P: CP=" OTI DSP COR IVA OUR IND COM "
+Set-Cookie: BAIDUID=5FB6B959E4C2D2FF9A13C26E31DAC6DC:FG=1; expires=Wed, 27-Sep-17 06:18:33 GMT; max-age=31536000; path=/; domain=.baidu.com; version=1
+Last-Modified: Thu, 25 Dec 2014 04:29:36 GMT
+ETag: "91e-50b02db060c00"
+Accept-Ranges: bytes
+Content-Length: 2334
+Vary: Accept-Encoding,User-Agent
+Connection: Close
+Content-Type: text/plain
+
+User-agent: Baiduspider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /ulink?
+Disallow: /link?
+
+User-agent: Googlebot
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+
+User-agent: MSNBot
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+
+User-agent: Baiduspider-image
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+
+User-agent: YoudaoBot
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+
+User-agent: Sogou web spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+
+User-agent: Sogou inst spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+
+User-agent: Sogou spider2
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+
+User-agent: Sogou blog
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+
+User-agent: Sogou News Spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+
+User-agent: Sogou Orion spider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+
+User-agent: ChinasoSpider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+
+User-agent: Sosospider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+
+
+User-agent: yisouspider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+
+User-agent: EasouSpider
+Disallow: /baidu
+Disallow: /s?
+Disallow: /shifen/
+Disallow: /homepage/
+Disallow: /cpro
+Disallow: /ulink?
+Disallow: /link?
+
+User-agent: *
+Disallow: /
+
+
+WARC/1.0
+WARC-Type: request
+WARC-Target-URI: http://www.baidu.com/robots.txt
+WARC-Date: 2016-09-27T06:18:37Z
+WARC-Concurrent-To: <urn:uuid:72e2a929-94a6-4b17-86a2-1359e829d962>
+WARC-Record-ID: <urn:uuid:8d500a11-e710-45fd-b010-3c4fe22b3902>
+Content-Type: application/http; msgtype=request
+Content-Length: 213
+
+GET /robots.txt HTTP/1.0
+User-Agent: Mozilla/5.0 (compatible; heritrix/3.1.0 +http://localhost)
+Connection: close
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Host: www.baidu.com
+
+
+
+WARC/1.0
+WARC-Type: metadata
+WARC-Target-URI: http://www.baidu.com/robots.txt
+WARC-Date: 2016-09-27T06:18:37Z
+WARC-Concurrent-To: <urn:uuid:72e2a929-94a6-4b17-86a2-1359e829d962>
+WARC-Record-ID: <urn:uuid:2b73ff95-cc56-4017-8350-219aa2fdf3c8>
+Content-Type: application/warc-fields
+Content-Length: 139
+
+force-fetch:
+via: http://www.baidu.com/
+hopsFromSeed: P
+fetchTimeMs: 162
+outlink: http://www.baidu.com/favicon.ico I =INFERRED_MISC
+
+
+

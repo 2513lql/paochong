@@ -1,0 +1,56 @@
+九月 27, 2016 6:24:24 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS1=0000003e.257186f.57ea1093.9ebe8314". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #10: http://s.weibo.com/robots.txt'; in processor 'fetchHttp')
+九月 27, 2016 6:24:24 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS2=0000003e.258086f.57ea1093.24b9bc1b". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #10: http://s.weibo.com/robots.txt'; in processor 'fetchHttp')
+九月 27, 2016 6:24:28 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS1=0000003e.3eb07173.57ea1097.633720dc". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #12: http://s.weibo.com/weibo/'; in processor 'fetchHttp')
+九月 27, 2016 6:24:28 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS2=0000003e.3ebf7173.57ea1097.6d5637cb". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #12: http://s.weibo.com/weibo/'; in processor 'fetchHttp')
+九月 27, 2016 6:24:31 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS1=0000003e.bcd83b43.57ea109a.fda276a8". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #12: http://s.weibo.com/ajax/jsonp/suggestion?ver=1&Refer=sina_sug'; in processor 'fetchHttp')
+九月 27, 2016 6:24:31 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS2=0000003e.bce93b43.57ea109a.456b987c". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #12: http://s.weibo.com/ajax/jsonp/suggestion?ver=1&Refer=sina_sug'; in processor 'fetchHttp')
+九月 27, 2016 6:24:34 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS1=0000003e.5a5c63d6.57ea109d.d90e2553". Illegal domain attribute ".sina.com.cn". Domain of origin: "account.weibo.com" (in thread 'ToeThread #13: http://account.weibo.com/robots.txt'; in processor 'fetchHttp')
+九月 27, 2016 6:24:34 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS2=0000003e.5a6a63d6.57ea109d.0f1536f0". Illegal domain attribute ".sina.com.cn". Domain of origin: "account.weibo.com" (in thread 'ToeThread #13: http://account.weibo.com/robots.txt'; in processor 'fetchHttp')
+九月 27, 2016 6:24:35 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS1=0000003e.1e9d7487.57ea109d.39be31e2". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #5: http://s.weibo.com/weibo/@@key@@'; in processor 'fetchHttp')
+九月 27, 2016 6:24:35 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS2=0000003e.1eac7487.57ea109d.80ed8f3c". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #5: http://s.weibo.com/weibo/@@key@@'; in processor 'fetchHttp')
+九月 27, 2016 6:24:37 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS1=0000003e.fe9a64b7.57ea10a0.1eb52413". Illegal domain attribute ".sina.com.cn". Domain of origin: "vip.sina.com" (in thread 'ToeThread #23: http://vip.sina.com/'; in processor 'fetchHttp')
+九月 27, 2016 6:24:37 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS2=0000003e.fea964b7.57ea10a0.fa09a957". Illegal domain attribute ".sina.com.cn". Domain of origin: "vip.sina.com" (in thread 'ToeThread #23: http://vip.sina.com/'; in processor 'fetchHttp')
+九月 27, 2016 6:25:56 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS1=0000003e.41a24c01.57ea10ef.351e7525". Illegal domain attribute ".sina.com.cn". Domain of origin: "mail.sina.cn" (in thread 'ToeThread #20: http://mail.sina.cn/?page=vipmail&vt=3'; in processor 'fetchHttp')
+九月 27, 2016 6:25:56 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS2=0000003e.41b54c01.57ea10ef.dd214b1e". Illegal domain attribute ".sina.com.cn". Domain of origin: "mail.sina.cn" (in thread 'ToeThread #20: http://mail.sina.cn/?page=vipmail&vt=3'; in processor 'fetchHttp')
+九月 27, 2016 6:25:56 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS1=0000003e.56b54ecf.57ea10ef.9a426717". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/?Refer=sina_sug'; in processor 'fetchHttp')
+九月 27, 2016 6:25:56 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS2=0000003e.56c64ecf.57ea10ef.b524ac1c". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/?Refer=sina_sug'; in processor 'fetchHttp')
+九月 27, 2016 6:25:59 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "JSESSIONID=6461EA5968F46CAAD27F762A455F4BFC". Illegal path attribute "/adbox-web/". Path of origin: "/ad/" (in thread 'ToeThread #21: http://adbox.sina.com.cn/ad/'; in processor 'fetchHttp')
+九月 27, 2016 6:25:59 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS1=0000003e.44664d09.57ea10f2.2e0e0fa8". Illegal domain attribute ".sina.com.cn". Domain of origin: "mail.sina.cn" (in thread 'ToeThread #8: http://mail.sina.cn/?vt=3'; in processor 'fetchHttp')
+九月 27, 2016 6:25:59 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS2=0000003e.44724d09.57ea10f2.1f6baca8". Illegal domain attribute ".sina.com.cn". Domain of origin: "mail.sina.cn" (in thread 'ToeThread #8: http://mail.sina.cn/?vt=3'; in processor 'fetchHttp')
+九月 27, 2016 6:25:59 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS1=0000003e.4c814d6b.57ea10f2.44a49a5d". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/top/summary?Refer=sina_sug'; in processor 'fetchHttp')
+九月 27, 2016 6:25:59 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS2=0000003e.4c904d6b.57ea10f2.b8248c41". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/top/summary?Refer=sina_sug'; in processor 'fetchHttp')
+九月 27, 2016 6:26:03 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS1=0000003e.59257ceb.57ea10f6.e1dcfeb7". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/'; in processor 'fetchHttp')
+九月 27, 2016 6:26:03 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS2=0000003e.59347ceb.57ea10f6.7044b1bb". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/'; in processor 'fetchHttp')
+九月 27, 2016 6:26:06 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS1=0000003e.e6927487.57ea10f9.9e265479". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/home?nojs=1'; in processor 'fetchHttp')
+九月 27, 2016 6:26:06 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS2=0000003e.e6a17487.57ea10f9.7149a34c". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/home?nojs=1'; in processor 'fetchHttp')
+九月 27, 2016 6:26:09 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS1=0000003e.e7a13187.57ea10fc.d1de439e". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/favicon.ico'; in processor 'fetchHttp')
+九月 27, 2016 6:26:09 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "U_TRS2=0000003e.e7b13187.57ea10fc.32c6cdf4". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/favicon.ico'; in processor 'fetchHttp')
+九月 27, 2016 6:26:32 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "SETTINGS.LOCALE=en%5Fus". Illegal path attribute "/cfusion/". Path of origin: "/flashplayer/" (in thread 'ToeThread #8: https://get.adobe.com/flashplayer/'; in processor 'fetchHttp')

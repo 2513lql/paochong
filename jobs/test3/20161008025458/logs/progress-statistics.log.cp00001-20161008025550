@@ -1,0 +1,7 @@
+           timestamp  discovered      queued   downloaded       doc/s(avg)  KB/s(avg)   dl-failures   busy-thread   mem-use-KB  heap-size-KB   congestion   max-depth   avg-depth
+2016-10-08T02:54:59Z           0           0            0             0(�)       0(0)             0             0        29645        121280            0          -1           0
+2016-10-08T02:55:00Z CRAWL RUNNING - Preparing
+2016-10-08T02:55:00Z           1           1            0             0(0)       0(0)             0             0        44380        123712            ∞           1           1
+2016-10-08T02:55:00Z CRAWL PAUSED - Paused
+2016-10-08T02:55:19Z           1           1            0             0(0)       0(0)             0             0        45538        123712            ∞           1           1
+2016-10-08T02:55:39Z           1           1            0             0(0)       0(0)             0             0        45538        123712            ∞           1           1

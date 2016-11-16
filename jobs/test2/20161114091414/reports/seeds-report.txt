@@ -1,0 +1,11 @@
+[code] [status] [seed] [redirect]
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=2
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=3
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=4
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=5
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=6
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=7
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=8
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=9
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=10
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=11

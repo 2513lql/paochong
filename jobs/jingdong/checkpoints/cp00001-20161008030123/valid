@@ -1,0 +1,2 @@
+           timestamp  discovered      queued   downloaded       doc/s(avg)  KB/s(avg)   dl-failures   busy-thread   mem-use-KB  heap-size-KB   congestion   max-depth   avg-depth
+2016-10-08T03:01:23Z           1           1            0             0(0)       0(0)             0             0        70824        131712            ∞           1           1

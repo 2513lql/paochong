@@ -1,0 +1,4 @@
+[#urls] [#bytes] [host] [#robots] [#remaining] [#novel-urls] [#novel-bytes] [#dup-by-hash-urls] [#dup-by-hash-bytes] [#not-modified-urls] [#not-modified-bytes]
+1 56 dns: 0 0 1 56 0 0 0 0 
+0 0 www.sina.com.cn 0 2 0 0 0 0 0 0 
+0 0 www.sina.com.cn 0 2 0 0 0 0 0 0 

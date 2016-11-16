@@ -1,0 +1,194 @@
+2016-10-08T02:31:03.494Z INFO Job instantiated
+2016-10-08T02:31:03.502Z WARNING Field error in object 'metadata' on field 'operatorContactUrl': rejected value [ENTER_AN_URL_WITH_YOUR_CONTACT_INFO_HERE_FOR_WEBMASTERS_AFFECTED_BY_YOUR_CRAWL]; codes [null.metadata.operatorContactUrl,null.operatorContactUrl,null.java.lang.String,null]; arguments []; default message [You must supply an HTTP(S) URL which will be included in your user-agent and should explain the purpose of your crawl and how to contact the crawl operator in the event of webmaster issues.]
+2016-10-08T02:50:21.130Z INFO Job instance discarded
+2016-10-08T02:50:23.982Z INFO Job instantiated
+2016-10-08T02:50:30.525Z INFO Job instance discarded
+2016-10-08T11:23:49.829Z SEVERE Missing required bean: "mirrorWriter" ; Can't create bean 'dispositionProcessors'; ; Can't create bean 'crawlController'; ; Can't create bean 'frontier'; ; Can't create bean 'seeds'
+2016-10-08T11:23:49.829Z SEVERE Missing required bean: "mirrorWriter" ; Can't create bean 'dispositionProcessors'; ; Can't create bean 'crawlController'; ; Can't create bean 'frontier'; ; Can't create bean 'seeds'
+2016-10-08T11:27:41.648Z SEVERE Line 386 in XML document from URL [file:F:/myproject/hetrixtest2/./jobs/test2/crawler-beans.cxml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 386; columnNumber: 58; cvc-complex-type.2.4.a: 发现了以元素 'bean' 开头的无效内容。应以 '{"http://www.springframework.org/schema/beans":description, "http://www.springframework.org/schema/beans":meta, "http://www.springframework.org/schema/beans":constructor-arg, "http://www.springframework.org/schema/beans":property, "http://www.springframework.org/schema/beans":qualifier, "http://www.springframework.org/schema/beans":lookup-method, "http://www.springframework.org/schema/beans":replaced-method, WC[##other:"http://www.springframework.org/schema/beans"]}' 之一开头。
+2016-10-08T11:27:41.648Z SEVERE Line 386 in XML document from URL [file:F:/myproject/hetrixtest2/./jobs/test2/crawler-beans.cxml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 386; columnNumber: 58; cvc-complex-type.2.4.a: 发现了以元素 'bean' 开头的无效内容。应以 '{"http://www.springframework.org/schema/beans":description, "http://www.springframework.org/schema/beans":meta, "http://www.springframework.org/schema/beans":constructor-arg, "http://www.springframework.org/schema/beans":property, "http://www.springframework.org/schema/beans":qualifier, "http://www.springframework.org/schema/beans":lookup-method, "http://www.springframework.org/schema/beans":replaced-method, WC[##other:"http://www.springframework.org/schema/beans"]}' 之一开头。
+2016-10-08T11:28:40.401Z SEVERE Line 386 in XML document from URL [file:F:/myproject/hetrixtest2/./jobs/test2/crawler-beans.cxml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 386; columnNumber: 58; cvc-complex-type.2.4.a: 发现了以元素 'bean' 开头的无效内容。应以 '{"http://www.springframework.org/schema/beans":description, "http://www.springframework.org/schema/beans":meta, "http://www.springframework.org/schema/beans":constructor-arg, "http://www.springframework.org/schema/beans":property, "http://www.springframework.org/schema/beans":qualifier, "http://www.springframework.org/schema/beans":lookup-method, "http://www.springframework.org/schema/beans":replaced-method, WC[##other:"http://www.springframework.org/schema/beans"]}' 之一开头。
+2016-10-08T11:28:40.401Z SEVERE Line 386 in XML document from URL [file:F:/myproject/hetrixtest2/./jobs/test2/crawler-beans.cxml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 386; columnNumber: 58; cvc-complex-type.2.4.a: 发现了以元素 'bean' 开头的无效内容。应以 '{"http://www.springframework.org/schema/beans":description, "http://www.springframework.org/schema/beans":meta, "http://www.springframework.org/schema/beans":constructor-arg, "http://www.springframework.org/schema/beans":property, "http://www.springframework.org/schema/beans":qualifier, "http://www.springframework.org/schema/beans":lookup-method, "http://www.springframework.org/schema/beans":replaced-method, WC[##other:"http://www.springframework.org/schema/beans"]}' 之一开头。
+2016-10-08T11:29:18.212Z INFO Job instantiated
+2016-10-08T11:30:00.802Z INFO Job instance discarded
+2016-10-08T11:31:08.273Z INFO Job instantiated
+2016-10-08T11:34:35.019Z INFO Job launched
+2016-10-08T11:34:36.522Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161008113436 (in thread 'test2 launchthread')
+2016-10-08T11:34:36.952Z INFO PREPARING 20161008113436
+2016-10-08T11:34:37.315Z INFO PAUSED 20161008113436
+2016-10-08T11:35:59.584Z INFO STOPPING 20161008113436
+2016-10-08T11:36:02.888Z INFO FINISHED 20161008113436
+2016-10-08T11:36:03.459Z INFO Job instance discarded
+2016-10-08T11:36:18.149Z INFO Job instantiated
+2016-10-08T11:36:23.616Z INFO Job launched
+2016-10-08T11:36:25.119Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161008113625 (in thread 'test2 launchthread')
+2016-10-08T11:36:25.359Z INFO PREPARING 20161008113625
+2016-10-08T11:36:25.401Z INFO PAUSED 20161008113625
+2016-10-08T11:36:58.349Z INFO RUNNING 20161008113625
+2016-10-09T09:25:00.065Z INFO PAUSING 20161008113625
+2016-10-09T09:25:01.928Z INFO PAUSED 20161008113625
+2016-10-09T09:25:38.628Z INFO RUNNING 20161008113625
+2016-10-11T06:01:44.095Z INFO PAUSING 20161008113625
+2016-10-11T06:01:44.711Z INFO PAUSED 20161008113625
+2016-10-11T06:02:22.051Z INFO RUNNING 20161008113625
+2016-10-11T06:13:16.501Z INFO PAUSING 20161008113625
+2016-10-11T06:13:17.629Z INFO PAUSED 20161008113625
+2016-10-11T06:14:20.920Z INFO Job instantiated
+2016-10-13T01:44:57.873Z INFO Job instantiated
+2016-10-13T01:53:02.772Z INFO Job launched
+2016-10-13T01:53:04.583Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161013015304 (in thread 'test2 launchthread')
+2016-10-13T01:53:05.542Z INFO PREPARING 20161013015304
+2016-10-13T01:53:05.717Z INFO PAUSED 20161013015304
+2016-10-13T01:53:17.278Z INFO STOPPING 20161013015304
+2016-10-13T01:53:20.583Z INFO FINISHED 20161013015304
+2016-10-13T01:53:21.051Z INFO Job instance discarded
+2016-10-13T01:54:04.430Z INFO Job instantiated
+2016-10-13T01:54:21.007Z INFO Job launched
+2016-10-13T01:54:22.513Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161013015422 (in thread 'test2 launchthread')
+2016-10-13T01:54:22.890Z INFO PREPARING 20161013015422
+2016-10-13T01:54:22.949Z INFO PAUSED 20161013015422
+2016-10-13T01:54:36.827Z INFO RUNNING 20161013015422
+2016-10-13T07:30:29.516Z INFO STOPPING 20161013015422
+2016-10-13T07:30:29.518Z INFO EMPTY 20161013015422
+2016-10-13T07:30:30.812Z INFO FINISHED 20161013015422
+2016-11-02T01:34:41.658Z INFO Job instantiated
+2016-11-02T01:35:38.734Z INFO Job instance discarded
+2016-11-02T01:36:15.121Z INFO Job instantiated
+2016-11-02T01:36:21.832Z INFO Job launched
+2016-11-02T01:36:23.585Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161102013623 (in thread 'test2 launchthread')
+2016-11-02T01:36:24.745Z INFO PREPARING 20161102013623
+2016-11-02T01:36:24.978Z INFO PAUSED 20161102013623
+2016-11-02T01:36:34.312Z INFO RUNNING 20161102013623
+2016-11-14T02:52:43.114Z INFO Job instantiated
+2016-11-14T03:04:09.121Z INFO Job instantiated
+2016-11-14T03:04:28.656Z INFO Job launched
+2016-11-14T03:04:30.390Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161114030430 (in thread 'test2 launchthread')
+2016-11-14T03:04:31.615Z INFO PREPARING 20161114030430
+2016-11-14T03:04:31.795Z INFO PAUSED 20161114030430
+2016-11-14T03:06:54.625Z INFO RUNNING 20161114030430
+2016-11-14T03:11:20.597Z INFO STOPPING 20161114030430
+2016-11-14T03:11:20.598Z INFO EMPTY 20161114030430
+2016-11-14T03:11:22.458Z INFO FINISHED 20161114030430
+2016-11-14T06:05:13.654Z SEVERE Line 58 in XML document from URL [file:F:/myproject/hetrixtest2/./jobs/test2/crawler-beans.cxml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 58; columnNumber: 81; 对实体 "pageNum" 的引用必须以 ';' 分隔符结尾。
+2016-11-14T06:05:13.654Z SEVERE Line 58 in XML document from URL [file:F:/myproject/hetrixtest2/./jobs/test2/crawler-beans.cxml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 58; columnNumber: 81; 对实体 "pageNum" 的引用必须以 ';' 分隔符结尾。
+2016-11-14T06:05:41.490Z SEVERE Line 58 in XML document from URL [file:F:/myproject/hetrixtest2/./jobs/test2/crawler-beans.cxml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 58; columnNumber: 81; 对实体 "pageNum" 的引用必须以 ';' 分隔符结尾。
+2016-11-14T06:05:41.490Z SEVERE Line 58 in XML document from URL [file:F:/myproject/hetrixtest2/./jobs/test2/crawler-beans.cxml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 58; columnNumber: 81; 对实体 "pageNum" 的引用必须以 ';' 分隔符结尾。
+2016-11-14T06:06:31.302Z SEVERE Line 58 in XML document from URL [file:F:/myproject/hetrixtest2/./jobs/test2/crawler-beans.cxml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 58; columnNumber: 74; 在实体引用中, 实体名称必须紧跟在 '&' 后面。
+2016-11-14T06:06:31.302Z SEVERE Line 58 in XML document from URL [file:F:/myproject/hetrixtest2/./jobs/test2/crawler-beans.cxml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 58; columnNumber: 74; 在实体引用中, 实体名称必须紧跟在 '&' 后面。
+2016-11-14T06:08:08.492Z INFO Job instantiated
+2016-11-14T06:08:20.013Z INFO Job launched
+2016-11-14T06:08:21.554Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161114060821 (in thread 'test2 launchthread')
+2016-11-14T06:08:22.158Z INFO PREPARING 20161114060821
+2016-11-14T06:08:22.245Z INFO PAUSED 20161114060821
+2016-11-14T06:08:32.214Z INFO RUNNING 20161114060821
+2016-11-14T06:12:51.172Z INFO STOPPING 20161114060821
+2016-11-14T06:12:51.173Z INFO EMPTY 20161114060821
+2016-11-14T06:12:52.991Z INFO FINISHED 20161114060821
+2016-11-14T06:19:48.069Z INFO Job instance discarded
+2016-11-14T06:19:58.924Z INFO Job instantiated
+2016-11-14T06:20:00.183Z INFO Job launched
+2016-11-14T06:20:01.688Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161114062001 (in thread 'test2 launchthread')
+2016-11-14T06:20:01.996Z INFO PREPARING 20161114062001
+2016-11-14T06:20:02.037Z INFO PAUSED 20161114062001
+2016-11-14T06:20:05.240Z INFO RUNNING 20161114062001
+2016-11-14T06:24:53.013Z INFO STOPPING 20161114062001
+2016-11-14T06:24:53.014Z INFO EMPTY 20161114062001
+2016-11-14T06:24:55.024Z INFO FINISHED 20161114062001
+2016-11-14T07:24:43.372Z INFO Job instance discarded
+2016-11-14T08:22:30.325Z INFO Job instantiated
+2016-11-14T08:22:33.168Z INFO Job launched
+2016-11-14T08:22:34.710Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161114082234 (in thread 'test2 launchthread')
+2016-11-14T08:22:35.283Z INFO PREPARING 20161114082234
+2016-11-14T08:22:35.465Z INFO PAUSED 20161114082234
+2016-11-14T08:22:43.174Z INFO RUNNING 20161114082234
+2016-11-14T08:27:03.251Z INFO STOPPING 20161114082234
+2016-11-14T08:27:03.252Z INFO EMPTY 20161114082234
+2016-11-14T08:27:04.883Z INFO FINISHED 20161114082234
+2016-11-14T08:30:59.717Z INFO Job instantiated
+2016-11-14T08:31:07.017Z INFO Job launched
+2016-11-14T08:31:08.575Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161114083108 (in thread 'test2 launchthread')
+2016-11-14T08:31:09.259Z INFO PREPARING 20161114083108
+2016-11-14T08:31:09.395Z INFO PAUSED 20161114083108
+2016-11-14T08:31:13.357Z INFO RUNNING 20161114083108
+2016-11-14T08:37:45.099Z INFO Job instantiated
+2016-11-14T08:38:32.735Z INFO Job instantiated
+2016-11-14T08:38:35.517Z INFO Job launched
+2016-11-14T08:38:37.158Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161114083837 (in thread 'test2 launchthread')
+2016-11-14T08:38:37.867Z INFO PREPARING 20161114083837
+2016-11-14T08:38:38.011Z INFO PAUSED 20161114083837
+2016-11-14T08:38:42.238Z INFO RUNNING 20161114083837
+2016-11-14T08:40:08.419Z INFO STOPPING 20161114083837
+2016-11-14T08:40:08.421Z INFO EMPTY 20161114083837
+2016-11-14T08:40:10.443Z INFO FINISHED 20161114083837
+2016-11-14T08:40:53.174Z INFO Job instance discarded
+2016-11-14T08:41:08.699Z INFO Job instantiated
+2016-11-14T08:41:09.727Z INFO Job launched
+2016-11-14T08:41:11.270Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161114084111 (in thread 'test2 launchthread')
+2016-11-14T08:41:11.913Z INFO PREPARING 20161114084111
+2016-11-14T08:41:11.997Z INFO PAUSED 20161114084111
+2016-11-14T08:41:22.849Z INFO RUNNING 20161114084111
+2016-11-14T08:44:52.782Z INFO STOPPING 20161114084111
+2016-11-14T08:44:56.089Z INFO FINISHED 20161114084111
+2016-11-14T08:44:56.959Z INFO Job instance discarded
+2016-11-14T08:45:39.804Z SEVERE Line 58 in XML document from URL [file:F:/myproject/hetrixtest2/./jobs/test2/crawler-beans.cxml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 58; columnNumber: 81; 对实体 "pageNum" 的引用必须以 ';' 分隔符结尾。
+2016-11-14T08:45:39.804Z SEVERE Line 58 in XML document from URL [file:F:/myproject/hetrixtest2/./jobs/test2/crawler-beans.cxml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 58; columnNumber: 81; 对实体 "pageNum" 的引用必须以 ';' 分隔符结尾。
+2016-11-14T08:46:45.824Z SEVERE Line 58 in XML document from URL [file:F:/myproject/hetrixtest2/./jobs/test2/crawler-beans.cxml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 58; columnNumber: 85; 对实体 "pageNum" 的引用必须以 ';' 分隔符结尾。
+2016-11-14T08:46:45.824Z SEVERE Line 58 in XML document from URL [file:F:/myproject/hetrixtest2/./jobs/test2/crawler-beans.cxml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 58; columnNumber: 85; 对实体 "pageNum" 的引用必须以 ';' 分隔符结尾。
+2016-11-14T08:48:11.902Z INFO Job instantiated
+2016-11-14T08:48:14.503Z INFO Job launched
+2016-11-14T08:48:16.024Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161114084816 (in thread 'test2 launchthread')
+2016-11-14T08:48:16.597Z INFO PREPARING 20161114084816
+2016-11-14T08:48:16.666Z INFO PAUSED 20161114084816
+2016-11-14T08:48:22.861Z INFO RUNNING 20161114084816
+2016-11-14T08:48:30.476Z INFO STOPPING 20161114084816
+2016-11-14T08:48:30.481Z INFO EMPTY 20161114084816
+2016-11-14T08:48:32.495Z INFO FINISHED 20161114084816
+2016-11-14T08:59:28.535Z INFO Job instantiated
+2016-11-14T08:59:47.135Z INFO Job launched
+2016-11-14T08:59:48.721Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161114085948 (in thread 'test2 launchthread')
+2016-11-14T08:59:49.388Z INFO PREPARING 20161114085948
+2016-11-14T08:59:49.467Z INFO PAUSED 20161114085948
+2016-11-14T08:59:53.124Z INFO RUNNING 20161114085948
+2016-11-14T09:02:28.309Z INFO STOPPING 20161114085948
+2016-11-14T09:02:28.311Z INFO EMPTY 20161114085948
+2016-11-14T09:02:30.028Z INFO FINISHED 20161114085948
+2016-11-14T09:13:05.947Z INFO Job instance discarded
+2016-11-14T09:14:10.322Z INFO Job instantiated
+2016-11-14T09:14:13.082Z INFO Job launched
+2016-11-14T09:14:14.596Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161114091414 (in thread 'test2 launchthread')
+2016-11-14T09:14:15.083Z INFO PREPARING 20161114091414
+2016-11-14T09:14:15.148Z INFO PAUSED 20161114091414
+2016-11-14T09:14:24.356Z INFO RUNNING 20161114091414
+2016-11-14T09:35:26.235Z INFO STOPPING 20161114091414
+2016-11-14T09:35:26.237Z INFO EMPTY 20161114091414
+2016-11-14T09:35:28.232Z INFO FINISHED 20161114091414
+2016-11-14T11:11:16.475Z INFO Job instance discarded
+2016-11-14T11:11:26.712Z INFO Job instantiated
+2016-11-14T11:11:33.301Z INFO Job launched
+2016-11-14T11:11:34.807Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161114111134 (in thread 'test2 launchthread')
+2016-11-14T11:11:35.097Z INFO PREPARING 20161114111134
+2016-11-14T11:11:35.150Z INFO PAUSED 20161114111134
+2016-11-14T11:13:54.228Z INFO RUNNING 20161114111134
+2016-11-14T11:28:04.310Z INFO STOPPING 20161114111134
+2016-11-14T11:28:04.311Z INFO EMPTY 20161114111134
+2016-11-14T11:28:05.906Z INFO FINISHED 20161114111134
+2016-11-14T11:42:27.605Z INFO Job instance discarded
+2016-11-14T11:43:02.221Z INFO Job instantiated
+2016-11-14T11:43:05.773Z INFO Job launched
+2016-11-14T11:43:07.286Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161114114307 (in thread 'test2 launchthread')
+2016-11-14T11:43:07.695Z INFO PREPARING 20161114114307
+2016-11-14T11:43:07.833Z INFO PAUSED 20161114114307
+2016-11-14T11:43:14.325Z INFO RUNNING 20161114114307
+2016-11-14T12:37:23.495Z INFO STOPPING 20161114114307
+2016-11-14T12:37:23.496Z INFO EMPTY 20161114114307
+2016-11-14T12:37:25.442Z INFO FINISHED 20161114114307
+2016-11-14T12:46:14.893Z INFO Job instance discarded
+2016-11-14T12:47:45.566Z INFO Job instantiated
+2016-11-14T12:47:53.994Z INFO Job launched
+2016-11-14T12:47:55.509Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\test2\latest to F:\myproject\hetrixtest2\.\jobs\test2\20161114124755 (in thread 'test2 launchthread')
+2016-11-14T12:47:56.115Z INFO PREPARING 20161114124755
+2016-11-14T12:47:56.257Z INFO PAUSED 20161114124755
+2016-11-14T12:48:05.546Z INFO RUNNING 20161114124755
+2016-11-14T14:07:25.984Z INFO STOPPING 20161114124755
+2016-11-14T14:07:25.984Z INFO EMPTY 20161114124755
+2016-11-14T14:07:27.831Z INFO FINISHED 20161114124755

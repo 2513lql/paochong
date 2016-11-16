@@ -1,0 +1,21 @@
+crawl name: basic
+crawl status: Finished - Ended by operator
+duration: 2h28m57s478ms
+
+seeds crawled: 1
+seeds uncrawled: 0
+
+hosts visited: 139
+
+URIs processed: 1810
+URI successes: 1612
+URI failures: 0
+URI disregards: 198
+
+novel URIs: 1612
+
+total crawled bytes: 40098938 (38 MiB) 
+novel crawled bytes: 40098938 (38 MiB)
+
+URIs/sec: 0.18
+KB/sec: 4

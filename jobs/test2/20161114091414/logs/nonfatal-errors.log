@@ -1,0 +1,345 @@
+2016-11-14T09:14:27.996Z   404       5291 http://apistore.baidu.com/robots.txt P http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=2 text/html #019 20161114091427936+42 sha1:5YSCPP5BDCI42OJSGEEPHAPK6GWRZ3OF - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\robots.txtN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\robots.txt
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\robots.txtN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\robots.txt
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:14:31.290Z   200      60360 http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=2 - - text/html #019 20161114091431001+260 sha1:BYCMWWRW6RKQ33YIYNGFSITUGXOFWFPL - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=2.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=2.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=2.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=2.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:14:34.587Z   200      60371 http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=3 - - text/html #019 20161114091434293+265 sha1:GQWAMEWKYVPIL5Z65I66OKUCKFU2DJZP - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=3.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=3.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=3.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=3.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:14:38.000Z   200      60936 http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=4 - - text/html #019 20161114091437590+280 sha1:BQ4VJJC467O7BMJZQ5GYBJMVSUS5HDXK - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=4.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=4.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=4.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=4.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:14:41.332Z   200      59652 http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=5 - - text/html #012 20161114091441000+295 sha1:FOXCSCOGWS73OQEH65ZT7YZZIF3LSXCB - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=5.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=5.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=5.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=5.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:14:44.698Z   200      59852 http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=6 - - text/html #012 20161114091444334+267 sha1:HMC27GAU5EZHOKHAEEB4HWC2DSJBCNAQ - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=6.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=6.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=6.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=6.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:14:48.006Z   200      57403 http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=7 - - text/html #012 20161114091447701+260 sha1:VEVA6RDEJDU5MEH22HLN6PQPMQG7X275 - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=7.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=7.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=7.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=7.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:14:51.280Z   200      54751 http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=8 - - text/html #012 20161114091451008+242 sha1:26XBMGQ7Z3Y3FZWKPSKH73NFM5C6JGDD - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=8.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=8.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=8.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=8.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:14:54.650Z   200      56871 http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=9 - - text/html #012 20161114091454283+271 sha1:ES2FXW6LUSJ2DN4VWPPPQYDOR2ZY5HS2 - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=9.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=9.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=9.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=9.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:14:57.994Z   200      58237 http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=10 - - text/html #012 20161114091457652+307 sha1:LAV22O63QDPLMOI5LXQUYQV2Q7ECTETD - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=10.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=10.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=10.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=10.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:15:01.392Z   200      54979 http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=11 - - text/html #012 20161114091500997+312 sha1:7NYG7AVMWDQEA36SCUJUCRFI3UL465OR - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=11.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=11.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=11.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\astore\classificationservicelistisFree=1&pageNum=11.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:34:01.567Z   200      11722 http://apistore.baidu.com/apiworks/servicedetail/1168.html LL http://apistore.baidu.com/apiworks/servicedetail/754.html text/html #006 20161114093401470+90 sha1:RPS5VWLPRTNLVRZTZVRMJBOJFDLYZC53 - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1168.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1168.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1168.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1168.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:34:06.045Z   200      69187 http://apistore.baidu.com/apiworks/servicedetail/2548.html LL http://apistore.baidu.com/apiworks/servicedetail/754.html text/html #006 20161114093404569+1460 sha1:YOHJ7B4THPSQLOMGN7DEICMGWHIYNCNI - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\2548.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\2548.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\2548.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\2548.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:34:14.878Z   200     100461 http://apistore.baidu.com/apiworks/servicedetail/1727.html LL http://apistore.baidu.com/apiworks/servicedetail/754.html text/html #022 20161114093413372+1465 sha1:66SKQLEXXW7XYUXSI34JBKXBYGLQST3O - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1727.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1727.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1727.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1727.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:34:23.854Z   200      59976 http://apistore.baidu.com/apiworks/servicedetail/2422.html LL http://apistore.baidu.com/apiworks/servicedetail/754.html text/html #005 20161114093422337+1468 sha1:RI23DRBXYB6VLSPS33IZSXHWAHNQ54BU - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\2422.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\2422.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\2422.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\2422.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:34:32.920Z   200     128583 http://apistore.baidu.com/apiworks/servicedetail/2458.html LL http://apistore.baidu.com/apiworks/servicedetail/794.html text/html #007 20161114093431340+1505 sha1:WIDU6O23RHYAGWQLABCZK7V4SPDOKB43 - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\2458.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\2458.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\2458.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\2458.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:34:41.976Z   200      87683 http://apistore.baidu.com/apiworks/servicedetail/1372.html LL http://apistore.baidu.com/apiworks/servicedetail/446.html text/html #001 20161114093440483+1473 sha1:C2HV4WMSG7ES75AXFYVAZCS54HGIHIM6 - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1372.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1372.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1372.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1372.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:34:49.490Z   200      11789 http://apistore.baidu.com/apiworks/servicedetail/1400.html LL http://apistore.baidu.com/apiworks/servicedetail/446.html text/html #023 20161114093449348+119 sha1:2E7I3JMPJNU7RTNQLTQHY7K2LYNWKJFF - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1400.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1400.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1400.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1400.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:34:52.619Z   200      11933 http://apistore.baidu.com/apiworks/servicedetail/1284.html LL http://apistore.baidu.com/apiworks/servicedetail/182.html text/html #023 20161114093452494+102 sha1:TBIAMQIOXBN5RCZEAJD7YJ7HL22PD6WM - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1284.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1284.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1284.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1284.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:34:57.219Z   200      86304 http://apistore.baidu.com/apiworks/servicedetail/2338.html LL http://apistore.baidu.com/apiworks/servicedetail/182.html text/html #023 20161114093455622+1543 sha1:BMQNIJAFCS2CJVR6PLSMML2POBSPOAD2 - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\2338.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\2338.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\2338.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\2338.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:35:06.653Z   200      95506 http://apistore.baidu.com/apiworks/servicedetail/1832.html LL http://apistore.baidu.com/apiworks/servicedetail/711.html text/html #001 20161114093504983+1616 sha1:B3IYEYCYEIMZ7LSUERNCKIQXMNTDHI6X - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1832.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1832.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1832.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\1832.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:35:16.302Z   200     100755 http://apistore.baidu.com/apiworks/servicedetail/880.html LL http://apistore.baidu.com/apiworks/servicedetail/520.html text/html #009 20161114093514739+1507 sha1:ZQKRNRKMUWUZON54YY3XH2W5VGXSL5QZ - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\880.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\880.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\880.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\880.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+2016-11-14T09:35:25.482Z   200     149367 http://apistore.baidu.com/apiworks/servicedetail/504.html LL http://apistore.baidu.com/apiworks/servicedetail/116.html text/html #002 20161114093523837+1565 sha1:GIHJ4SBM2ZFTYWJ5IIALSQZ73K4IK3WH - -
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\504.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\504.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)
+ java.io.IOException: Can not rename F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\504.htmlN to F:\myproject\hetrixtest2\.\mirror\apistore.baidu.com\apiworks\servicedetail\504.html
+	at org.archive.modules.writer.MirrorWriterProcessor.writeToPath(MirrorWriterProcessor.java:742)
+	at org.archive.modules.writer.MirrorWriterProcessor.innerProcess(MirrorWriterProcessor.java:416)
+	at org.archive.modules.Processor.innerProcessResult(Processor.java:175)
+	at org.archive.modules.Processor.process(Processor.java:142)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:131)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:151)

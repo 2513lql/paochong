@@ -1,0 +1,5 @@
+[#urls] [#bytes] [mime-types]
+4493 89633991 text/html
+6 900 unknown
+1 73 text/dns
+1 427 text/plain

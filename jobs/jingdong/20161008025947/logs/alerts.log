@@ -1,0 +1,10 @@
+十月 08, 2016 5:05:27 上午 org.apache.commons.httpclient.HttpMethodBase processResponseHeaders
+WARNING: Cookie rejected: "SETTINGS.LOCALE=en%5Fus". Illegal path attribute "/cfusion/". Path of origin: "/flashplayer/" (in thread 'ToeThread #13: https://get.adobe.com/flashplayer/'; in processor 'fetchHttp')
+十月 08, 2016 10:57:24 上午 org.archive.crawler.framework.ToeThread recoverableProblem
+SEVERE: Problem java.lang.InterruptedException: interrupt detected occured when trying to process 'http://www40.statcan.ca/robots.txt' at step ABOUT_TO_BEGIN_PROCESSOR in 
+ (in thread 'ToeThread #9: http://www40.statcan.ca/robots.txt')
+java.lang.InterruptedException: interrupt detected
+	at org.archive.util.ArchiveUtils.continueCheck(ArchiveUtils.java:922)
+	at org.archive.modules.ProcessorChain.process(ProcessorChain.java:130)
+	at org.archive.crawler.framework.ToeThread.run(ToeThread.java:147)
+

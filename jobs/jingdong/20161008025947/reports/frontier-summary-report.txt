@@ -1,0 +1,405 @@
+Frontier report - 201610081057
+ Job being crawled: basic
+
+ -----===== STATS =====-----
+ Discovered:    51962
+ Queued:        41594
+ Finished:      10372
+  Successfully: 10363
+  Failed:       3
+  Disregarded:  6
+
+ -----===== QUEUES =====-----
+ Already included size:     51962
+               pending:     0
+
+ All class queues map size: 36
+             Active queues: 6
+                    In-process: 0
+                         Ready: 1
+                       Snoozed: 5
+           Inactive queues: 0 (p3: 0)
+            Retired queues: 0
+          Exhausted queues: 30
+
+             Last state: RUN
+ -----===== MANAGER THREAD =====-----
+Java Thread State: RUNNABLE
+Blocked/Waiting On: NONE
+    java.lang.Thread.getStackTrace(Thread.java:1567)
+    org.archive.crawler.framework.ToeThread.reportThread(ToeThread.java:483)
+    org.archive.crawler.frontier.WorkQueueFrontier.standardReportTo(WorkQueueFrontier.java:1399)
+    org.archive.crawler.frontier.WorkQueueFrontier.reportTo(WorkQueueFrontier.java:1229)
+    org.archive.crawler.reporting.FrontierSummaryReport.write(FrontierSummaryReport.java:41)
+    org.archive.crawler.reporting.StatisticsTracker.writeReportFile(StatisticsTracker.java:909)
+    org.archive.crawler.reporting.StatisticsTracker.dumpReports(StatisticsTracker.java:937)
+    org.archive.crawler.reporting.StatisticsTracker.crawlEnded(StatisticsTracker.java:565)
+    org.archive.crawler.reporting.StatisticsTracker.onApplicationEvent(StatisticsTracker.java:985)
+    org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:97)
+    org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:303)
+    org.archive.crawler.framework.CrawlController.sendCrawlStateChangeEvent(CrawlController.java:326)
+    org.archive.crawler.framework.CrawlController.completeStop(CrawlController.java:391)
+    org.archive.crawler.framework.CrawlController.noteFrontierState(CrawlController.java:656)
+    org.archive.crawler.frontier.AbstractFrontier.reachedState(AbstractFrontier.java:439)
+    org.archive.crawler.frontier.AbstractFrontier.managementTasks(AbstractFrontier.java:397)
+    org.archive.crawler.frontier.AbstractFrontier$1.run(AbstractFrontier.java:315)
+
+ -----===== 20 LONGEST QUEUES =====-----
+LONGEST#0:
+Queue com,datatang,www, (p3)
+  41581 items
+   wakes in: -17s909ms
+    last enqueued: http://www.datatang.com/data/list/752000/r020-t02-c03-p1
+      last peeked: http://www.datatang.com/data/list/752000/r020-t02-p1
+   total expended: 9234 (total budget: -1)
+   active balance: 2769
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   50815 9234 0 0 9234 0 87347731 87347731 3 2016-10-08T10:57:04.346Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#1:
+Queue com,emolecules,www, (p3)
+  4 items
+   wakes in: 8m21s270ms
+    last enqueued: http://www.emolecules.com/robots.txt
+      last peeked: http://www.emolecules.com/robots.txt
+   total expended: 2 (total budget: -1)
+   active balance: 2998
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   5 1 0 0 1 0 53 53 3 2016-10-08T10:50:15.685Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#2:
+Queue ca,statcan,www40, (p3)
+  3 items
+    last enqueued: http://www40.statcan.ca/robots.txt
+      last peeked: http://www40.statcan.ca/robots.txt
+   total expended: 110 (total budget: -1)
+   active balance: 2890
+   last(avg) cost: 1(11)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   5 1 1 0 1 0 60 60 11 2016-10-08T08:54:17.088Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#3:
+Queue com,51xuewen,www, (p3)
+  2 items
+   wakes in: 8m52s12ms
+    last enqueued: http://www.51xuewen.com/robots.txt
+      last peeked: http://www.51xuewen.com/robots.txt
+   total expended: 24 (total budget: -1)
+   active balance: 2976
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   3 1 0 0 1 0 55 55 25 2016-10-08T05:13:32.531Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#4:
+Queue com,google,www, (p3)
+  2 items
+   wakes in: 14s542ms
+    last enqueued: http://www.google.com/robots.txt
+      last peeked: http://www.google.com/robots.txt
+   total expended: 24 (total budget: -1)
+   active balance: 2976
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   3 1 0 0 1 0 54 54 25 2016-10-08T05:04:54.900Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#5:
+Queue edu,ucsd,cosmal, (p3)
+  2 items
+   wakes in: 1m27s94ms
+    last enqueued: http://cosmal.ucsd.edu/robots.txt
+      last peeked: http://cosmal.ucsd.edu/robots.txt
+   total expended: 22 (total budget: -1)
+   active balance: 2978
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   3 1 0 0 1 0 56 56 23 2016-10-08T05:36:46.950Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#6:
+Queue at,ac,univie,www, (p3)
+  0 items
+    last enqueued: http://www.univie.ac.at/voice/page/transcription_general_information)
+      last peeked: http://www.univie.ac.at/voice/page/transcription_general_information)
+   total expended: 3 (total budget: -1)
+   active balance: 2997
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   3 3 0 0 3 0 7258 7258 2 2016-10-08T05:38:17.125Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#7:
+Queue com,adobe,fonts, (p3)
+  0 items
+    last enqueued: https://fonts.adobe.com/yoe7ink.js
+      last peeked: https://fonts.adobe.com/yoe7ink.js
+   total expended: 3 (total budget: -1)
+   active balance: 2997
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   3 3 0 0 3 0 21161 21161 2 2016-10-08T05:05:44.084Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#8:
+Queue com,adobe,sstats, (p3)
+  0 items
+    last enqueued: https://sstats.adobe.com/b/ss/adbacdcprod/1/H.24.4T/0?AQB=1&pccr=true&vidn=2BFC3F500548A01D-4000010600009827&pageName=ACDC%5FNoscript&g=https://get.adobe.com&ch=ACDC%5FNoscript&AQE=1
+      last peeked: https://sstats.adobe.com/b/ss/mxmacromedia/1/H.24.4T/0?pageName=ACDC%5FNoscript&g=http%3A//get.adobe.com/&ch=ACDC%5FNoscript&server=Dylan
+   total expended: 5 (total budget: -1)
+   active balance: 2995
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   5 5 0 0 5 0 2580 2580 2 2016-10-08T05:05:43.658Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#9:
+Queue com,adobe,www, (p3)
+  0 items
+    last enqueued: http://www.adobe.com/favicon.ico
+      last peeked: http://www.adobe.com/favicon.ico
+   total expended: 4 (total budget: -1)
+   active balance: 2996
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   4 4 0 0 4 0 24618 24618 2 2016-10-08T05:04:59.136Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#10:
+Queue com,adobedtm,assets, (p3)
+  0 items
+    last enqueued: https://assets.adobedtm.com/659ec8ada5450db95675e43beaaae92399591a11/satelliteLib-7123a14bc11ffd1ad43be190a593a8932494dcb0.js
+      last peeked: https://assets.adobedtm.com/659ec8ada5450db95675e43beaaae92399591a11/satelliteLib-7123a14bc11ffd1ad43be190a593a8932494dcb0.js
+   total expended: 3 (total budget: -1)
+   active balance: 2997
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   3 3 0 0 3 0 227072 227072 2 2016-10-08T05:05:55.846Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#11:
+Queue com,baidu,share,bdimg, (p3)
+  0 items
+    last enqueued: http://bdimg.share.baidu.com/favicon.ico
+      last peeked: http://bdimg.share.baidu.com/favicon.ico
+   total expended: 5 (total budget: -1)
+   active balance: 2995
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   5 5 0 0 5 0 7088 7088 2 2016-10-08T03:02:56.255Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#12:
+Queue com,datamall,files, (p3)
+  0 items
+    last enqueued: http://files.datamall.com/audio/T0047G0008S0003.mp3
+      last peeked: http://files.datamall.com/audio/T0047G0008S0003.mp3
+   total expended: 54 (total budget: -1)
+   active balance: 2995
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   54 54 0 0 54 0 5419932 5419932 2 2016-10-08T09:14:12.877Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#13:
+Queue com,datatang, (p3)
+  0 items
+    last enqueued: http://datatang.com/images/ad/city%20grid.jpg
+      last peeked: http://datatang.com/images/ad/city%20grid.jpg
+   total expended: 12 (total budget: -1)
+   active balance: 2988
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   12 12 0 0 12 0 1156995 1156995 2 2016-10-08T03:03:17.529Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#14:
+Queue com,datatang,image, (p3)
+  0 items
+    last enqueued: http://image.datatang.com/data/2012/2/25/20120225202241996.png
+      last peeked: http://image.datatang.com/data/2012/2/25/20120225202241996.png
+   total expended: 580 (total budget: -1)
+   active balance: 2999
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   580 580 0 0 580 0 45815616 45815616 3 2016-10-08T10:52:59.159Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#15:
+Queue com,qq,b,wpa, (p3)
+  0 items
+    last enqueued: http://wpa.b.qq.com/cgi/wpa.php?key=XzkzODAwNjcwNl8yMzAzMTlfNDAwMDYxMDExN18
+      last peeked: http://wpa.b.qq.com/cgi/wpa.php?key=XzkzODAwNjcwNl8yMzAzMTlfNDAwMDYxMDExN18
+   total expended: 6 (total budget: -1)
+   active balance: 2999
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   6 6 0 0 6 0 35198 35198 2 2016-10-08T03:02:50.315Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#16:
+Queue com,qq,crm2,promreport, (p3)
+  0 items
+    last enqueued: http://promreport.crm2.qq.com/wpa/r.gif
+      last peeked: http://promreport.crm2.qq.com/wpa/r.gif
+   total expended: 3 (total budget: -1)
+   active balance: 2997
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   3 3 0 0 3 0 589 589 2 2016-10-08T03:01:47.138Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#17:
+Queue edu,nyu,stern,www, (p3)
+  0 items
+    last enqueued: http://www.stern.nyu.edu/SOR/Casebook
+      last peeked: http://www.stern.nyu.edu/SOR/Casebook
+   total expended: 3 (total budget: -1)
+   active balance: 2997
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   3 3 0 0 3 0 42004 42004 2 2016-10-08T07:29:31.847Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#18:
+Queue gov,usgs,mrdata, (p3)
+  0 items
+    last enqueued: http://mrdata.usgs.gov/magnetic/surveys.png
+      last peeked: http://mrdata.usgs.gov/favicon.ico
+   total expended: 7 (total budget: -1)
+   active balance: 2993
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   7 7 0 0 7 0 94431 94431 1 2016-10-08T10:42:38.901Z
+   SimplePrecedenceProvider
+   3
+
+LONGEST#19:
+Queue localhost,#8013 (p3)
+  0 items
+    last enqueued: http://localhost:8013/robots.txt
+      last peeked: http://localhost:8013/account/accountstatus3.aspx
+   total expended: 232 (total budget: -1)
+   active balance: 2768
+   last(avg) cost: 1(7.2)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   4 2 2 0 2 0 -2 -2 33 2016-10-08T09:08:19.472Z
+   SimplePrecedenceProvider
+   3
+
+
+ -----===== IN-PROCESS QUEUES =====-----
+
+ -----===== READY QUEUES =====-----
+READY#0:
+Queue ca,statcan,www40, (p3)
+  3 items
+    last enqueued: http://www40.statcan.ca/robots.txt
+      last peeked: http://www40.statcan.ca/robots.txt
+   total expended: 110 (total budget: -1)
+   active balance: 2890
+   last(avg) cost: 1(11)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   5 1 1 0 1 0 60 60 11 2016-10-08T08:54:17.088Z
+   SimplePrecedenceProvider
+   3
+
+
+ -----===== SNOOZED QUEUES =====-----
+SNOOZED#0:
+Queue com,datatang,www, (p3)
+  41581 items
+   wakes in: -17s914ms
+    last enqueued: http://www.datatang.com/data/list/752000/r020-t02-c03-p1
+      last peeked: http://www.datatang.com/data/list/752000/r020-t02-p1
+   total expended: 9234 (total budget: -1)
+   active balance: 2769
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   50815 9234 0 0 9234 0 87347731 87347731 3 2016-10-08T10:57:04.346Z
+   SimplePrecedenceProvider
+   3
+
+SNOOZED#1:
+Queue com,google,www, (p3)
+  2 items
+   wakes in: 14s537ms
+    last enqueued: http://www.google.com/robots.txt
+      last peeked: http://www.google.com/robots.txt
+   total expended: 24 (total budget: -1)
+   active balance: 2976
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   3 1 0 0 1 0 54 54 25 2016-10-08T05:04:54.900Z
+   SimplePrecedenceProvider
+   3
+
+SNOOZED#2:
+Queue edu,ucsd,cosmal, (p3)
+  2 items
+   wakes in: 1m27s90ms
+    last enqueued: http://cosmal.ucsd.edu/robots.txt
+      last peeked: http://cosmal.ucsd.edu/robots.txt
+   total expended: 22 (total budget: -1)
+   active balance: 2978
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   3 1 0 0 1 0 56 56 23 2016-10-08T05:36:46.950Z
+   SimplePrecedenceProvider
+   3
+
+SNOOZED#3:
+Queue com,emolecules,www, (p3)
+  4 items
+   wakes in: 8m21s265ms
+    last enqueued: http://www.emolecules.com/robots.txt
+      last peeked: http://www.emolecules.com/robots.txt
+   total expended: 2 (total budget: -1)
+   active balance: 2998
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   5 1 0 0 1 0 53 53 3 2016-10-08T10:50:15.685Z
+   SimplePrecedenceProvider
+   3
+
+SNOOZED#4:
+Queue com,51xuewen,www, (p3)
+  2 items
+   wakes in: 8m52s7ms
+    last enqueued: http://www.51xuewen.com/robots.txt
+      last peeked: http://www.51xuewen.com/robots.txt
+   total expended: 24 (total budget: -1)
+   active balance: 2976
+   last(avg) cost: 1(1)
+   totalScheduled fetchSuccesses fetchFailures fetchDisregards fetchResponses robotsDenials successBytes totalBytes fetchNonResponses lastSuccessTime
+   3 1 0 0 1 0 55 55 25 2016-10-08T05:13:32.531Z
+   SimplePrecedenceProvider
+   3
+
+
+ -----===== INACTIVE QUEUES =====-----
+
+ -----===== RETIRED QUEUES =====-----

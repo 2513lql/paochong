@@ -1,0 +1,27 @@
+[code] [status] [seed] [redirect]
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=32
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=33
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=34
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=35
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=36
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=37
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=38
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=39
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=40
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=41
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=42
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=43
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=44
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=45
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=46
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=47
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=48
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=49
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=50
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=51
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=52
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=53
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=54
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=55
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=56
+200 CRAWLED http://apistore.baidu.com/astore/classificationservicelist.html?isFree=1&pageNum=57

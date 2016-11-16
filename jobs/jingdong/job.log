@@ -1,0 +1,208 @@
+2016-09-27T06:15:30.792Z INFO Job instantiated
+2016-09-27T06:18:00.987Z INFO Job launched
+2016-09-27T06:18:02.762Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20160927061802 (in thread 'jingdong launchthread')
+2016-09-27T06:18:03.259Z INFO PREPARING 20160927061802
+2016-09-27T06:18:03.356Z INFO PAUSED 20160927061802
+2016-09-27T06:18:34.161Z INFO RUNNING 20160927061802
+2016-09-27T06:18:39.415Z INFO PAUSING 20160927061802
+2016-09-27T06:18:40.997Z INFO PAUSED 20160927061802
+2016-09-27T06:18:43.576Z INFO STOPPING 20160927061802
+2016-09-27T06:18:44.002Z INFO FINISHED 20160927061802
+2016-09-27T06:18:53.710Z INFO Job instance discarded
+2016-09-27T06:19:01.411Z INFO Job instantiated
+2016-09-27T06:19:14.688Z INFO Job launched
+2016-09-27T06:19:16.191Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20160927061916 (in thread 'jingdong launchthread')
+2016-09-27T06:19:16.392Z INFO PREPARING 20160927061916
+2016-09-27T06:19:16.425Z INFO PAUSED 20160927061916
+2016-09-27T06:22:00.180Z INFO STOPPING 20160927061916
+2016-09-27T06:22:03.483Z INFO FINISHED 20160927061916
+2016-09-27T06:22:03.789Z INFO Job instance discarded
+2016-09-27T06:22:17.398Z INFO Job instantiated
+2016-09-27T06:22:17.399Z INFO Job launched
+2016-09-27T06:22:18.902Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20160927062218 (in thread 'jingdong launchthread')
+2016-09-27T06:22:19.090Z INFO PREPARING 20160927062218
+2016-09-27T06:22:19.116Z INFO PAUSED 20160927062218
+2016-09-27T06:24:08.111Z INFO CHECKPOINTED cp00001-20160927062407
+2016-09-27T06:24:14.000Z INFO RUNNING 20160927062218
+2016-09-27T06:24:24.611Z WARNING Cookie rejected: "U_TRS1=0000003e.257186f.57ea1093.9ebe8314". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #10: http://s.weibo.com/robots.txt'; in processor 'fetchHttp')
+2016-09-27T06:24:24.613Z WARNING Cookie rejected: "U_TRS2=0000003e.258086f.57ea1093.24b9bc1b". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #10: http://s.weibo.com/robots.txt'; in processor 'fetchHttp')
+2016-09-27T06:24:28.293Z WARNING Cookie rejected: "U_TRS1=0000003e.3eb07173.57ea1097.633720dc". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #12: http://s.weibo.com/weibo/'; in processor 'fetchHttp')
+2016-09-27T06:24:28.295Z WARNING Cookie rejected: "U_TRS2=0000003e.3ebf7173.57ea1097.6d5637cb". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #12: http://s.weibo.com/weibo/'; in processor 'fetchHttp')
+2016-09-27T06:24:31.520Z WARNING Cookie rejected: "U_TRS1=0000003e.bcd83b43.57ea109a.fda276a8". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #12: http://s.weibo.com/ajax/jsonp/suggestion?ver=1&Refer=sina_sug'; in processor 'fetchHttp')
+2016-09-27T06:24:31.521Z WARNING Cookie rejected: "U_TRS2=0000003e.bce93b43.57ea109a.456b987c". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #12: http://s.weibo.com/ajax/jsonp/suggestion?ver=1&Refer=sina_sug'; in processor 'fetchHttp')
+2016-09-27T06:24:34.352Z WARNING Cookie rejected: "U_TRS1=0000003e.5a5c63d6.57ea109d.d90e2553". Illegal domain attribute ".sina.com.cn". Domain of origin: "account.weibo.com" (in thread 'ToeThread #13: http://account.weibo.com/robots.txt'; in processor 'fetchHttp')
+2016-09-27T06:24:34.353Z WARNING Cookie rejected: "U_TRS2=0000003e.5a6a63d6.57ea109d.0f1536f0". Illegal domain attribute ".sina.com.cn". Domain of origin: "account.weibo.com" (in thread 'ToeThread #13: http://account.weibo.com/robots.txt'; in processor 'fetchHttp')
+2016-09-27T06:24:35.153Z WARNING Cookie rejected: "U_TRS1=0000003e.1e9d7487.57ea109d.39be31e2". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #5: http://s.weibo.com/weibo/@@key@@'; in processor 'fetchHttp')
+2016-09-27T06:24:35.154Z WARNING Cookie rejected: "U_TRS2=0000003e.1eac7487.57ea109d.80ed8f3c". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #5: http://s.weibo.com/weibo/@@key@@'; in processor 'fetchHttp')
+2016-09-27T06:24:37.586Z WARNING Cookie rejected: "U_TRS1=0000003e.fe9a64b7.57ea10a0.1eb52413". Illegal domain attribute ".sina.com.cn". Domain of origin: "vip.sina.com" (in thread 'ToeThread #23: http://vip.sina.com/'; in processor 'fetchHttp')
+2016-09-27T06:24:37.587Z WARNING Cookie rejected: "U_TRS2=0000003e.fea964b7.57ea10a0.fa09a957". Illegal domain attribute ".sina.com.cn". Domain of origin: "vip.sina.com" (in thread 'ToeThread #23: http://vip.sina.com/'; in processor 'fetchHttp')
+2016-09-27T06:24:38.780Z INFO PAUSING 20160927062218
+2016-09-27T06:24:48.992Z INFO PAUSED 20160927062218
+2016-09-27T06:25:55.159Z INFO RUNNING 20160927062218
+2016-09-27T06:25:56.225Z WARNING Cookie rejected: "U_TRS1=0000003e.41a24c01.57ea10ef.351e7525". Illegal domain attribute ".sina.com.cn". Domain of origin: "mail.sina.cn" (in thread 'ToeThread #20: http://mail.sina.cn/?page=vipmail&vt=3'; in processor 'fetchHttp')
+2016-09-27T06:25:56.226Z WARNING Cookie rejected: "U_TRS2=0000003e.41b54c01.57ea10ef.dd214b1e". Illegal domain attribute ".sina.com.cn". Domain of origin: "mail.sina.cn" (in thread 'ToeThread #20: http://mail.sina.cn/?page=vipmail&vt=3'; in processor 'fetchHttp')
+2016-09-27T06:25:56.325Z WARNING Cookie rejected: "U_TRS1=0000003e.56b54ecf.57ea10ef.9a426717". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/?Refer=sina_sug'; in processor 'fetchHttp')
+2016-09-27T06:25:56.325Z WARNING Cookie rejected: "U_TRS2=0000003e.56c64ecf.57ea10ef.b524ac1c". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/?Refer=sina_sug'; in processor 'fetchHttp')
+2016-09-27T06:25:59.067Z WARNING Cookie rejected: "JSESSIONID=6461EA5968F46CAAD27F762A455F4BFC". Illegal path attribute "/adbox-web/". Path of origin: "/ad/" (in thread 'ToeThread #21: http://adbox.sina.com.cn/ad/'; in processor 'fetchHttp')
+2016-09-27T06:25:59.417Z WARNING Cookie rejected: "U_TRS1=0000003e.44664d09.57ea10f2.2e0e0fa8". Illegal domain attribute ".sina.com.cn". Domain of origin: "mail.sina.cn" (in thread 'ToeThread #8: http://mail.sina.cn/?vt=3'; in processor 'fetchHttp')
+2016-09-27T06:25:59.419Z WARNING Cookie rejected: "U_TRS2=0000003e.44724d09.57ea10f2.1f6baca8". Illegal domain attribute ".sina.com.cn". Domain of origin: "mail.sina.cn" (in thread 'ToeThread #8: http://mail.sina.cn/?vt=3'; in processor 'fetchHttp')
+2016-09-27T06:25:59.571Z WARNING Cookie rejected: "U_TRS1=0000003e.4c814d6b.57ea10f2.44a49a5d". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/top/summary?Refer=sina_sug'; in processor 'fetchHttp')
+2016-09-27T06:25:59.572Z WARNING Cookie rejected: "U_TRS2=0000003e.4c904d6b.57ea10f2.b8248c41". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/top/summary?Refer=sina_sug'; in processor 'fetchHttp')
+2016-09-27T06:26:03.167Z WARNING Cookie rejected: "U_TRS1=0000003e.59257ceb.57ea10f6.e1dcfeb7". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/'; in processor 'fetchHttp')
+2016-09-27T06:26:03.168Z WARNING Cookie rejected: "U_TRS2=0000003e.59347ceb.57ea10f6.7044b1bb". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/'; in processor 'fetchHttp')
+2016-09-27T06:26:06.487Z WARNING Cookie rejected: "U_TRS1=0000003e.e6927487.57ea10f9.9e265479". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/home?nojs=1'; in processor 'fetchHttp')
+2016-09-27T06:26:06.489Z WARNING Cookie rejected: "U_TRS2=0000003e.e6a17487.57ea10f9.7149a34c". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/home?nojs=1'; in processor 'fetchHttp')
+2016-09-27T06:26:09.720Z WARNING Cookie rejected: "U_TRS1=0000003e.e7a13187.57ea10fc.d1de439e". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/favicon.ico'; in processor 'fetchHttp')
+2016-09-27T06:26:09.721Z WARNING Cookie rejected: "U_TRS2=0000003e.e7b13187.57ea10fc.32c6cdf4". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #3: http://s.weibo.com/favicon.ico'; in processor 'fetchHttp')
+2016-09-27T06:26:32.900Z WARNING Cookie rejected: "SETTINGS.LOCALE=en%5Fus". Illegal path attribute "/cfusion/". Path of origin: "/flashplayer/" (in thread 'ToeThread #8: https://get.adobe.com/flashplayer/'; in processor 'fetchHttp')
+2016-09-27T06:27:58.914Z INFO STOPPING 20160927062218
+2016-09-27T06:28:02.217Z INFO FINISHED 20160927062218
+2016-09-27T06:28:02.783Z INFO Job instance discarded
+2016-09-27T06:29:48.439Z INFO Job instantiated
+2016-09-27T06:29:55.776Z INFO Job launched
+2016-09-27T06:29:57.279Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20160927062957 (in thread 'jingdong launchthread')
+2016-09-27T06:29:57.472Z INFO PREPARING 20160927062957
+2016-09-27T06:29:57.493Z INFO PAUSED 20160927062957
+2016-09-27T06:33:45.286Z INFO RUNNING 20160927062957
+2016-09-27T06:34:36.628Z INFO STOPPING 20160927062957
+2016-09-27T06:34:39.932Z INFO FINISHED 20160927062957
+2016-09-27T06:34:40.356Z INFO Job instance discarded
+2016-09-28T03:13:05.477Z INFO Job instantiated
+2016-09-28T03:13:05.483Z INFO Job launched
+2016-09-28T03:13:07.119Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20160928031306 (in thread 'jingdong launchthread')
+2016-09-28T03:13:07.867Z INFO PREPARING 20160928031306
+2016-09-28T03:13:08.046Z INFO PAUSED 20160928031306
+2016-09-28T03:15:41.831Z INFO RUNNING 20160928031306
+2016-09-28T03:15:53.185Z WARNING Cookie rejected: "U_TRS1=0000003e.a44365dd.57eb35e2.5eb3942b". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #14: http://s.weibo.com/robots.txt'; in processor 'fetchHttp')
+2016-09-28T03:15:53.185Z WARNING Cookie rejected: "U_TRS2=0000003e.a45165dd.57eb35e2.b6e479fc". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #14: http://s.weibo.com/robots.txt'; in processor 'fetchHttp')
+2016-09-28T03:15:57.169Z WARNING Cookie rejected: "U_TRS1=0000003e.a7277ce.57eb35e6.83d9506a". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #24: http://s.weibo.com/?Refer=sina_sug'; in processor 'fetchHttp')
+2016-09-28T03:15:57.170Z WARNING Cookie rejected: "U_TRS2=0000003e.a7377ce.57eb35e6.5cd48150". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #24: http://s.weibo.com/?Refer=sina_sug'; in processor 'fetchHttp')
+2016-09-28T03:16:00.413Z WARNING Cookie rejected: "U_TRS1=0000003e.99237cd.57eb35ea.37fa25fc". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #21: http://s.weibo.com/top/summary?Refer=sina_sug'; in processor 'fetchHttp')
+2016-09-28T03:16:00.414Z WARNING Cookie rejected: "U_TRS2=0000003e.99347cd.57eb35ea.108e5a20". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #21: http://s.weibo.com/top/summary?Refer=sina_sug'; in processor 'fetchHttp')
+2016-09-28T03:16:03.259Z WARNING Cookie rejected: "U_TRS1=0000003e.c50f2e5a.57eb35ec.2bb932c8". Illegal domain attribute ".sina.com.cn". Domain of origin: "account.weibo.com" (in thread 'ToeThread #13: http://account.weibo.com/robots.txt'; in processor 'fetchHttp')
+2016-09-28T03:16:03.260Z WARNING Cookie rejected: "U_TRS2=0000003e.c51d2e5a.57eb35ec.540434d9". Illegal domain attribute ".sina.com.cn". Domain of origin: "account.weibo.com" (in thread 'ToeThread #13: http://account.weibo.com/robots.txt'; in processor 'fetchHttp')
+2016-09-28T03:16:03.879Z WARNING Cookie rejected: "U_TRS1=0000003e.b1e474e3.57eb35ed.5913a3d7". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #19: http://s.weibo.com/ajax/jsonp/suggestion?ver=1&Refer=sina_sug'; in processor 'fetchHttp')
+2016-09-28T03:16:03.880Z WARNING Cookie rejected: "U_TRS2=0000003e.b1f474e3.57eb35ed.33789e39". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #19: http://s.weibo.com/ajax/jsonp/suggestion?ver=1&Refer=sina_sug'; in processor 'fetchHttp')
+2016-09-28T03:16:06.435Z WARNING Cookie rejected: "U_TRS1=0000003e.847d21ed.57eb35f0.a6435818". Illegal domain attribute ".sina.com.cn". Domain of origin: "vip.sina.com" (in thread 'ToeThread #7: http://vip.sina.com/'; in processor 'fetchHttp')
+2016-09-28T03:16:06.435Z WARNING Cookie rejected: "U_TRS2=0000003e.848b21ed.57eb35f0.fdfc61b9". Illegal domain attribute ".sina.com.cn". Domain of origin: "vip.sina.com" (in thread 'ToeThread #7: http://vip.sina.com/'; in processor 'fetchHttp')
+2016-09-28T03:16:07.369Z WARNING Cookie rejected: "U_TRS1=0000003e.53f974e3.57eb35f0.fc93ad6c". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #19: http://s.weibo.com/weibo/@@key@@'; in processor 'fetchHttp')
+2016-09-28T03:16:07.371Z WARNING Cookie rejected: "U_TRS2=0000003e.540874e3.57eb35f0.1792505b". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #19: http://s.weibo.com/weibo/@@key@@'; in processor 'fetchHttp')
+2016-09-28T03:16:09.668Z WARNING Cookie rejected: "JSESSIONID=6361E2DE080B4E51D1A837E24E1DAE6F". Illegal path attribute "/adbox-web/". Path of origin: "/ad/" (in thread 'ToeThread #13: http://adbox.sina.com.cn/ad/'; in processor 'fetchHttp')
+2016-09-28T03:16:10.105Z WARNING Cookie rejected: "U_TRS1=0000003e.d04010d0.57eb35f3.71e9c0da". Illegal domain attribute ".sina.com.cn". Domain of origin: "mail.sina.cn" (in thread 'ToeThread #20: http://mail.sina.cn/?vt=3'; in processor 'fetchHttp')
+2016-09-28T03:16:10.106Z WARNING Cookie rejected: "U_TRS2=0000003e.d04c10d0.57eb35f3.1eed0c41". Illegal domain attribute ".sina.com.cn". Domain of origin: "mail.sina.cn" (in thread 'ToeThread #20: http://mail.sina.cn/?vt=3'; in processor 'fetchHttp')
+2016-09-28T03:16:13.164Z WARNING Cookie rejected: "U_TRS1=0000003e.c8fb29e6.57eb35f6.5796b0f9". Illegal domain attribute ".sina.com.cn". Domain of origin: "mail.sina.cn" (in thread 'ToeThread #9: http://mail.sina.cn/?page=vipmail&vt=3'; in processor 'fetchHttp')
+2016-09-28T03:16:13.165Z WARNING Cookie rejected: "U_TRS2=0000003e.c90829e6.57eb35f6.a3ad9400". Illegal domain attribute ".sina.com.cn". Domain of origin: "mail.sina.cn" (in thread 'ToeThread #9: http://mail.sina.cn/?page=vipmail&vt=3'; in processor 'fetchHttp')
+2016-09-28T03:16:15.921Z WARNING Cookie rejected: "U_TRS1=0000003e.6ade1d5f.57eb35f9.e55d43e6". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #7: http://s.weibo.com/weibo/'; in processor 'fetchHttp')
+2016-09-28T03:16:15.921Z WARNING Cookie rejected: "U_TRS2=0000003e.6aee1d5f.57eb35f9.ae3d87ec". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #7: http://s.weibo.com/weibo/'; in processor 'fetchHttp')
+2016-09-28T03:16:19.196Z WARNING Cookie rejected: "U_TRS1=0000003e.d11c19aa.57eb35fc.9423a957". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #7: http://s.weibo.com/home?nojs=1'; in processor 'fetchHttp')
+2016-09-28T03:16:19.196Z WARNING Cookie rejected: "U_TRS2=0000003e.d12a19aa.57eb35fc.22292bc5". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #7: http://s.weibo.com/home?nojs=1'; in processor 'fetchHttp')
+2016-09-28T03:16:22.513Z WARNING Cookie rejected: "U_TRS1=0000003e.192e1c55.57eb3600.849741d3". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #7: http://s.weibo.com/'; in processor 'fetchHttp')
+2016-09-28T03:16:22.514Z WARNING Cookie rejected: "U_TRS2=0000003e.193d1c55.57eb3600.c12cb850". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #7: http://s.weibo.com/'; in processor 'fetchHttp')
+2016-09-28T03:16:25.764Z WARNING Cookie rejected: "U_TRS1=0000003e.365d549c.57eb3603.a61cf548". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #9: http://s.weibo.com/favicon.ico'; in processor 'fetchHttp')
+2016-09-28T03:16:25.766Z WARNING Cookie rejected: "U_TRS2=0000003e.366d549c.57eb3603.147b6880". Illegal domain attribute ".sina.com.cn". Domain of origin: "s.weibo.com" (in thread 'ToeThread #9: http://s.weibo.com/favicon.ico'; in processor 'fetchHttp')
+2016-09-28T03:16:37.097Z WARNING Cookie rejected: "SETTINGS.LOCALE=en%5Fus". Illegal path attribute "/cfusion/". Path of origin: "/flashplayer/" (in thread 'ToeThread #16: https://get.adobe.com/flashplayer/'; in processor 'fetchHttp')
+2016-09-28T03:18:24.601Z WARNING Cookie rejected: "statuid=__218.30.108.189_1475032697_0.46682300". Illegal domain attribute ".sina.cn". Domain of origin: "www.sina.com.cn" (in thread 'ToeThread #5: http://www.sina.com.cn/mid/pic/index.d.html?url='; in processor 'fetchHttp')
+2016-09-28T03:18:24.604Z WARNING Cookie rejected: "statuidsrc=Mozilla%2F5.0+%28compatible%3B+heritrix%2F3.1.0+%2Bhttp%3A%2F%2Flocalhost%29%60218.30.108.189%60http%3A%2F%2Fcms.sina.cn%2Fsubject.d.html%3Furl%3Dwww.sina.com.cn%2Fmid%2Fpic%2Findex.d.html%3Furl%3D%60http%3A%2F%2Fwww.sina.com.cn%2F%60__218.30.108.189_1475032697_0.46682300". Illegal domain attribute ".sina.cn". Domain of origin: "www.sina.com.cn" (in thread 'ToeThread #5: http://www.sina.com.cn/mid/pic/index.d.html?url='; in processor 'fetchHttp')
+2016-09-28T03:18:24.606Z WARNING Cookie rejected: "markpt=deleted". Illegal domain attribute ".sina.cn". Domain of origin: "www.sina.com.cn" (in thread 'ToeThread #5: http://www.sina.com.cn/mid/pic/index.d.html?url='; in processor 'fetchHttp')
+2016-09-28T03:18:24.608Z WARNING Cookie rejected: "ustat=__218.30.108.189_1475032697_0.46682300". Illegal domain attribute ".sina.cn". Domain of origin: "www.sina.com.cn" (in thread 'ToeThread #5: http://www.sina.com.cn/mid/pic/index.d.html?url='; in processor 'fetchHttp')
+2016-09-28T03:18:24.608Z WARNING Cookie rejected: "genTime=1475032697". Illegal domain attribute ".sina.cn". Domain of origin: "www.sina.com.cn" (in thread 'ToeThread #5: http://www.sina.com.cn/mid/pic/index.d.html?url='; in processor 'fetchHttp')
+2016-09-28T03:18:24.611Z WARNING Cookie rejected: "vt=4". Illegal domain attribute ".sina.cn". Domain of origin: "www.sina.com.cn" (in thread 'ToeThread #5: http://www.sina.com.cn/mid/pic/index.d.html?url='; in processor 'fetchHttp')
+2016-09-28T05:44:35.825Z INFO STOPPING 20160928031306
+2016-09-28T05:44:39.131Z INFO FINISHED 20160928031306
+2016-09-28T05:44:39.636Z INFO Job instance discarded
+2016-10-08T02:59:30.473Z INFO Job instantiated
+2016-10-08T02:59:46.302Z INFO Job launched
+2016-10-08T02:59:47.805Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20161008025947 (in thread 'jingdong launchthread')
+2016-10-08T02:59:48.072Z INFO PREPARING 20161008025947
+2016-10-08T02:59:48.102Z INFO PAUSED 20161008025947
+2016-10-08T03:01:23.825Z INFO CHECKPOINTED cp00001-20161008030123
+2016-10-08T03:01:26.849Z INFO RUNNING 20161008025947
+2016-10-08T05:05:27.844Z WARNING Cookie rejected: "SETTINGS.LOCALE=en%5Fus". Illegal path attribute "/cfusion/". Path of origin: "/flashplayer/" (in thread 'ToeThread #13: https://get.adobe.com/flashplayer/'; in processor 'fetchHttp')
+2016-10-08T06:33:41.100Z INFO PAUSING 20161008025947
+2016-10-08T06:33:43.015Z INFO PAUSED 20161008025947
+2016-10-08T06:33:46.494Z INFO RUNNING 20161008025947
+2016-10-08T10:30:46.451Z INFO PAUSING 20161008025947
+2016-10-08T10:30:47.225Z INFO PAUSED 20161008025947
+2016-10-08T10:33:03.265Z INFO RUNNING 20161008025947
+2016-10-08T10:54:40.879Z INFO PAUSING 20161008025947
+2016-10-08T10:54:42.825Z INFO PAUSED 20161008025947
+2016-10-08T10:55:23.799Z INFO RUNNING 20161008025947
+2016-10-08T10:57:04.489Z INFO PAUSING 20161008025947
+2016-10-08T10:57:06.742Z INFO STOPPING 20161008025947
+2016-10-08T10:57:24.364Z SEVERE Problem java.lang.InterruptedException: interrupt detected occured when trying to process 'http://www40.statcan.ca/robots.txt' at step ABOUT_TO_BEGIN_PROCESSOR in 
+ (in thread 'ToeThread #9: http://www40.statcan.ca/robots.txt')
+2016-10-08T10:57:24.897Z INFO FINISHED 20161008025947
+2016-10-08T10:57:26.452Z INFO Job instance discarded
+2016-10-08T10:57:27.002Z SEVERE Unhandled exception or error intercepted
+2016-10-08T10:57:32.991Z INFO Job instantiated
+2016-10-08T10:58:39.233Z INFO Job launched
+2016-10-08T10:58:40.837Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20161008105840 (in thread 'jingdong launchthread')
+2016-10-08T10:58:40.930Z INFO Job instance discarded
+2016-10-08T10:58:40.973Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.UnsatisfiedLinkError: Error looking up function 'link': ÕҲ»µ½ָ¶¨µ
+2016-10-08T10:58:40.973Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.UnsatisfiedLinkError: Error looking up function 'link': ÕҲ»µ½ָ¶¨µ (in thread 'jingdong launchthread')
+2016-10-08T10:58:54.984Z INFO Job instantiated
+2016-10-08T10:58:54.984Z INFO Job launched
+2016-10-08T10:58:56.490Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20161008105856 (in thread 'jingdong launchthread')
+2016-10-08T10:58:56.650Z INFO Job instance discarded
+2016-10-08T10:58:56.650Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed.
+2016-10-08T10:58:56.650Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed. (in thread 'jingdong launchthread')
+2016-10-08T10:59:03.193Z INFO Job instantiated
+2016-10-08T10:59:05.125Z INFO Job launched
+2016-10-08T10:59:06.628Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20161008105906 (in thread 'jingdong launchthread')
+2016-10-08T10:59:06.652Z INFO Job instance discarded
+2016-10-08T10:59:06.652Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed.
+2016-10-08T10:59:06.652Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed. (in thread 'jingdong launchthread')
+2016-10-08T10:59:45.722Z INFO Job instantiated
+2016-10-08T10:59:48.756Z INFO Job instance discarded
+2016-10-08T10:59:52.187Z INFO Job instantiated
+2016-10-08T11:00:08.478Z INFO Job launched
+2016-10-08T11:00:09.982Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20161008110009 (in thread 'jingdong launchthread')
+2016-10-08T11:00:10.029Z INFO Job instance discarded
+2016-10-08T11:00:10.029Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed.
+2016-10-08T11:00:10.029Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed. (in thread 'jingdong launchthread')
+2016-10-08T11:01:15.225Z INFO Job instantiated
+2016-10-08T11:04:32.571Z INFO Job launched
+2016-10-08T11:04:34.257Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20161008110434 (in thread 'jingdong launchthread')
+2016-10-08T11:04:34.593Z INFO Job instance discarded
+2016-10-08T11:04:34.594Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed.
+2016-10-08T11:04:34.594Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed. (in thread 'jingdong launchthread')
+2016-10-08T11:07:18.149Z INFO Job instantiated
+2016-10-08T11:07:18.150Z INFO Job launched
+2016-10-08T11:07:19.654Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20161008110719 (in thread 'jingdong launchthread')
+2016-10-08T11:07:19.690Z INFO Job instance discarded
+2016-10-08T11:07:19.691Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed.
+2016-10-08T11:07:19.691Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed. (in thread 'jingdong launchthread')
+2016-10-08T11:08:47.744Z INFO Job instantiated
+2016-10-08T11:08:47.744Z INFO Job launched
+2016-10-08T11:08:49.252Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20161008110849 (in thread 'jingdong launchthread')
+2016-10-08T11:08:49.321Z INFO Job instance discarded
+2016-10-08T11:08:49.321Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed.
+2016-10-08T11:08:49.321Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed. (in thread 'jingdong launchthread')
+2016-10-08T11:08:56.392Z INFO Job instantiated
+2016-10-08T11:10:51.781Z INFO Job instance discarded
+2016-10-08T11:12:45.178Z INFO Job instantiated
+2016-10-08T11:12:51.937Z INFO Job launched
+2016-10-08T11:12:53.445Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20161008111253 (in thread 'jingdong launchthread')
+2016-10-08T11:12:53.518Z INFO Job instance discarded
+2016-10-08T11:12:53.518Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed.
+2016-10-08T11:12:53.518Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed. (in thread 'jingdong launchthread')
+2016-10-08T11:13:05.597Z INFO Job instantiated
+2016-10-08T11:13:12.814Z INFO Job launched
+2016-10-08T11:13:14.320Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20161008111314 (in thread 'jingdong launchthread')
+2016-10-08T11:13:14.375Z INFO Job instance discarded
+2016-10-08T11:13:14.375Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed.
+2016-10-08T11:13:14.375Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed. (in thread 'jingdong launchthread')
+2016-10-08T11:14:16.173Z INFO Job instantiated
+2016-10-08T11:14:17.531Z INFO Job launched
+2016-10-08T11:14:19.039Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20161008111419 (in thread 'jingdong launchthread')
+2016-10-08T11:14:19.110Z INFO Job instance discarded
+2016-10-08T11:14:19.110Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed.
+2016-10-08T11:14:19.110Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed. (in thread 'jingdong launchthread')
+2016-10-08T11:15:07.496Z INFO Job instantiated
+2016-10-08T11:19:52.300Z INFO Job instance discarded
+2016-10-08T11:20:04.276Z INFO Job instantiated
+2016-10-08T11:20:04.277Z INFO Job launched
+2016-10-08T11:20:05.781Z WARNING failed to create symlink from F:\myproject\hetrixtest2\.\jobs\jingdong\latest to F:\myproject\hetrixtest2\.\jobs\jingdong\20161008112005 (in thread 'jingdong launchthread')
+2016-10-08T11:20:05.853Z INFO Job instance discarded
+2016-10-08T11:20:05.854Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed.
+2016-10-08T11:20:05.854Z SEVERE Failed to start bean 'bdb'; nested exception is java.lang.IllegalStateException: com.sleepycat.je.EnvironmentFailureException: (JE 4.1.6) Environment must be closed, caused by: com.sleepycat.je.EnvironmentFailureException: Environment invalid because of previous exception: (JE 4.1.6) F:\myproject\hetrixtest2\.\jobs\jingdong\state fetchTarget of 0x0/0xbf parent IN=2 IN class=com.sleepycat.je.tree.BIN lastFullVersion=0x2/0x9484b9 parent.getDirty()=false state=0 LOG_FILE_NOT_FOUND: Log file missing, log is likely invalid. Environment is invalid and must be closed. (in thread 'jingdong launchthread')

@@ -1,0 +1,37 @@
+2016-09-27T06:24:20.742Z http://www.sina.com.cn/ "http scheme specific part is too short: //" http://
+2016-09-27T06:24:28.208Z http://iask.sina.com.cn/ "http scheme specific part is too short: //" http://
+2016-09-27T06:24:31.181Z http://house.sina.com.cn/404.html "http scheme specific part is too short: //" http://
+2016-09-27T06:24:34.795Z http://dup.baidustatic.com/js/ds.js "http scheme specific part is too short: //" http://
+2016-09-27T06:24:34.796Z http://dup.baidustatic.com/js/ds.js "http scheme specific part is too short: //" http://
+2016-09-27T06:24:34.796Z http://dup.baidustatic.com/js/ds.js "http scheme specific part is too short: //" https://
+2016-09-27T06:24:34.796Z http://dup.baidustatic.com/js/ds.js "http scheme specific part is too short: //" https://
+2016-09-27T06:24:37.306Z http://d3.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js "http scheme specific part is too short: //" https://
+2016-09-27T06:24:37.306Z http://d3.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js "http scheme specific part is too short: //" http://
+2016-09-27T06:25:59.063Z http://d1.sina.com.cn/litong/zhitou/sinaads/release/pbv5.html "gnu.inet.encoding.IDNAException: String too long. .sina" http://\.sina\.com\.cn
+2016-09-27T06:25:59.063Z http://d1.sina.com.cn/litong/zhitou/sinaads/release/pbv5.html "gnu.inet.encoding.IDNAException: String too long. .weibo" http://\.weibo\.com
+2016-09-27T06:25:59.063Z http://d1.sina.com.cn/litong/zhitou/sinaads/release/pbv5.html "gnu.inet.encoding.IDNAException: String too long. .sinaimg" http://\.sinaimg\.cn
+2016-09-27T06:25:59.063Z http://d1.sina.com.cn/litong/zhitou/sinaads/release/pbv5.html "gnu.inet.encoding.IDNAException: String too long. .sina" http://\.sina\.com\.cn
+2016-09-27T06:25:59.063Z http://d1.sina.com.cn/litong/zhitou/sinaads/release/pbv5.html "gnu.inet.encoding.IDNAException: String too long. .weibo" http://\.weibo\.com
+2016-09-27T06:25:59.064Z http://d1.sina.com.cn/litong/zhitou/sinaads/release/pbv5.html "gnu.inet.encoding.IDNAException: String too long. .allyes" http://\.allyes\.com
+2016-09-27T06:25:59.064Z http://d1.sina.com.cn/litong/zhitou/sinaads/release/pbv5.html "gnu.inet.encoding.IDNAException: String too long. .admaster" http://\.admaster\.com\.cn
+2016-09-27T06:25:59.064Z http://d1.sina.com.cn/litong/zhitou/sinaads/release/pbv5.html "gnu.inet.encoding.IDNAException: String too long. .miaozhen" http://\.miaozhen\.com
+2016-09-27T06:25:59.064Z http://d1.sina.com.cn/litong/zhitou/sinaads/release/pbv5.html "http scheme specific part is too short: //" http://
+2016-09-27T06:25:59.064Z http://d1.sina.com.cn/litong/zhitou/sinaads/release/pbv5.html "http scheme specific part is too short: //" https://
+2016-09-27T06:25:59.064Z http://d1.sina.com.cn/litong/zhitou/sinaads/release/pbv5.html "http scheme specific part is too short: //" http://
+2016-09-27T06:25:59.152Z http://auto.sina.com.cn/ "http scheme specific part is too short: //" http://
+2016-09-27T06:26:03.053Z http://js.t.sinajs.cn/t4/apps/search_v6/js/base.js?version=20160918163000 "http scheme specific part is too short: //" http://
+2016-09-27T06:26:05.144Z http://d5.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js "http scheme specific part is too short: //" https://
+2016-09-27T06:26:05.144Z http://d5.sina.com.cn/litong/zhitou/sinaads/release/sinaads.js "http scheme specific part is too short: //" http://
+2016-09-27T06:26:11.378Z https://www.jd.com/ "http scheme specific part is too short: //" https://
+2016-09-27T06:26:11.378Z https://www.jd.com/ "http scheme specific part is too short: //" http://
+2016-09-27T06:26:13.246Z http://js.t.sinajs.cn/t4/apps/search_v6/js/searchIndex.js?version=20160918163000 "http scheme specific part is too short: //" http://
+2016-09-27T06:26:13.250Z http://js.t.sinajs.cn/t4/apps/search_v6/js/searchIndex.js?version=20160918163000 "http scheme specific part is too short: //" http://
+2016-09-27T06:26:13.268Z http://js.t.sinajs.cn/t4/apps/search_v6/js/searchIndex.js?version=20160918163000 "http scheme specific part is too short: //" https://
+2016-09-27T06:26:13.268Z http://js.t.sinajs.cn/t4/apps/search_v6/js/searchIndex.js?version=20160918163000 "http scheme specific part is too short: //" http://
+2016-09-27T06:26:13.272Z http://js.t.sinajs.cn/t4/apps/search_v6/js/searchIndex.js?version=20160918163000 "http scheme specific part is too short: //" https://
+2016-09-27T06:26:13.272Z http://js.t.sinajs.cn/t4/apps/search_v6/js/searchIndex.js?version=20160918163000 "http scheme specific part is too short: //" http://
+2016-09-27T06:26:20.320Z http://d3.sina.com.cn/litong/zhitou/sinaads/release/sinaadToolkit.js "http scheme specific part is too short: //" https://
+2016-09-27T06:26:20.320Z http://d3.sina.com.cn/litong/zhitou/sinaads/release/sinaadToolkit.js "http scheme specific part is too short: //" http://
+2016-09-27T06:26:38.923Z http://www.sinaimg.cn/unipro/pub/suda_s_v851c.js "http scheme specific part is too short: //" http://
+2016-09-27T06:26:44.955Z http://www.sinaimg.cn/unipro/pub/suda_s_v839c.js "http scheme specific part is too short: //" https://
+2016-09-27T06:26:44.956Z http://www.sinaimg.cn/unipro/pub/suda_s_v839c.js "http scheme specific part is too short: //" http://
